@@ -1,5 +1,4 @@
 # Identified via @curi0usJack
-^.*linux.*$
 ^.*cloudfront.*$
 ^curl.*$
 ^.*ython.*$
